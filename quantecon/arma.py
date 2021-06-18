@@ -3,6 +3,8 @@ Provides functions for working with and visualizing scalar ARMA processes.
 
 TODO: 1. Fix warnings concerning casting complex variables back to floats
 
+Modified by L
+
 """
 import numpy as np
 from .util import check_random_state
